@@ -1,0 +1,24 @@
+const { NotImplementedError } = require('../extensions/index.js');
+
+/**
+ * Given an email address, return it's domain.
+ *
+ * @param {String} email
+ * @return {String}
+ *
+ * @example
+ * For the input 'prettyandsimple@example.com', the output should be 'example.com'
+ *
+ */
+function getEmailDomain(email) {
+   let str = email.slice(email.indexOf('@') + 1)
+   console.log(str)
+   if (str.includes('@')) {
+      return str.slice(email.indexOf('@'));
+   }
+   return email.slice(email.indexOf('@') + 1)
+}
+
+module.exports = {
+   getEmailDomain
+};
