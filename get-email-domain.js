@@ -1,4 +1,4 @@
-const { NotImplementedError } = require('../extensions/index.js');
+dfaadfconst { NotImplementedError } = require('../extensions/index.js');
 
 /**
  * Given an email address, return it's domain.
