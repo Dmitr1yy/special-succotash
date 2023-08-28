@@ -11,7 +11,7 @@ dfaadfconst { NotImplementedError } = require('../extensions/index.js');
  *
  */
 function getEmailDomain(email) {
-   let str = email.slice(email.indexOf('@') + 1)
+   let str = email.slice(email.indexOf('@') + 1)asdfasdf
    console.log(str)
    if (str.includes('@')) {
       return str.slice(email.indexOf('@'));
