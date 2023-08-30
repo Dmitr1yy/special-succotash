@@ -10,7 +10,7 @@ zcxvzxcvzxvzxcvzxcvzxcvasdfasdfasdfdfaadfconst { NotImplementedError } = require
  * For the input 'prettyandsimple@example.com', the output should be 'example.com'
  *
  */
-function getEmailDomain(email) {
+function getEmailDomain(email) {xvzxcz
    let str = email.slice(email.indexOf('@') + 1)asdfasdf
    console.log(str)
    if (str.includes('@')) {
