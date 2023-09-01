@@ -6,7 +6,7 @@
  * @param {String} email
  * @return {String}
  *
- * @example
+ * @exampleasdfasdfs
  * For the input 'prettyandsimple@example.com', the output should be 'example.com'
  *
  */
