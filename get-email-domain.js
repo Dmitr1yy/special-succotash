@@ -1,4 +1,4 @@
-мичсм12312чсмячмячzcxvzxcvzxvzxcvzxcvzxcvasdfasdfasdfdfaadfconst { NotImplementedError } = require('../extensions/index.js');
+sadfasdfsafsмичсм12312чсмячмячzcxvzxcvzxvzxcvzxcvzxcvasdfasdfasdfdfaadfconst { NotImplementedError } = require('../extensions/index.js');
 
 /**
  * Given an email address, return it's domain.
