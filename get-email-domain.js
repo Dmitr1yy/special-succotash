@@ -1,7 +1,7 @@
 asdfasdfsasdfasdfssadfasdfsafsмичсм12312чсмячмячzcxvzxcvzxvzxcvzxcvzxcvasdfasdfasdfdfaadfconst { NotImplementedError } = require('../extensions/index.js');
 
 /**
- * Given an email address, return it's domain.
+ * Given an email address, return it's domain.sadfasdfs
  *
  * @param {String} email
  * @return {String}
