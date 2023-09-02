@@ -3,7 +3,7 @@ asdfasdfsasdfasdfssadfasdfsafsмичсм12312чсмячмячzcxvzxcvzxvzxcvzxcv
 /**
  * Given an email address, return it's domain.sadfasdfs
  *
- * @param {String} email
+ * @param {String} emailasdfasd
  * @return {String}
  *
  * @exampleasdfasdfs
