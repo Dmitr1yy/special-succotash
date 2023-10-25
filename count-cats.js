@@ -20,7 +20,7 @@ function countCats(matrix) {
       if (arr == '^^') {
          count++;
       }
-      for (let arr2 of arr) {
+      for (let arr2 of arr) {фывафы
          if (arr2 == '^^') {
             count++;
          }
