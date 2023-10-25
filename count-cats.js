@@ -10,7 +10,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  * countCats([
  *  [0, 1, '^^'],
  *  [0, '^^', 2],
- *  ['^^', 1, 2]asdfasdfsasdfasdf
+ *  ['^^', 1, 2]asdfasdfsasdfasdfфываы
  * ]) => 3`sadfasdfфыафы
  *
  */
