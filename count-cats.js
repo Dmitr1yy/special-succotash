@@ -11,7 +11,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  *  [0, 1, '^^'],
  *  [0, '^^', 2],
  *  ['^^', 1, 2]asdfasdfsasdfasdf
- * ]) => 3`sadfasdf
+ * ]) => 3`sadfasdfфыафы
  *
  */
 function countCats(matrix) {
