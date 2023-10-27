@@ -6,7 +6,14 @@ const { NotImplementedError } = require('../extensions/index.js');
  * @param {Array<Array>} matrix 
  * @return {Number} count of cats found
  *
- * @example
+ * @exampleasdfadf
+ asd
+ fa
+ sdf
+ as
+ df
+ asd
+ 
  * countCats([
  *  [0, 1, '^^'],
  *  [0, '^^', 2],
